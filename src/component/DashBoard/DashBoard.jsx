@@ -1,11 +1,8 @@
 import React from 'react'
 // import Main from '../Main/Main'
-import SideBar from '../SideBar/SideBar'
 import { BiStoreAlt } from "react-icons/bi";
 import { IoBagOutline } from "react-icons/io5";
-import { IoSearchOutline } from "react-icons/io5";
 import { IoIosArrowRoundForward } from "react-icons/io";
-import Header from '../Header/Header';
 import { Link } from 'react-router-dom';
 import { useState } from 'react';
 import clsx from  'clsx';

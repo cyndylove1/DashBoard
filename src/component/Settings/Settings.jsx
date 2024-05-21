@@ -7,8 +7,7 @@ import StoreDetails from '../StoreDetails/StoreDetails'
 
 const Settings = () => {
   const [selected, setSelected] = useState(1)
-  const activeLink =  'text-red underline'
-  const normalLink=  'text-dark-gray'
+  
   
   return (
     <div>

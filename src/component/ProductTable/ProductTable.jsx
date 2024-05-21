@@ -2,7 +2,7 @@ import React from 'react'
 import image from '../Image/images.jpg'
 import { IoChevronForward } from "react-icons/io5";
 import { IoChevronBackOutline } from "react-icons/io5";
-import { NavLink, Outlet } from 'react-router-dom';
+
 
 const ProductTable = () => {
   return (

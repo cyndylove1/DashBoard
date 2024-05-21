@@ -3,14 +3,13 @@ import DashBoard from '../DashBoard/DashBoard'
 import DashBoard2 from '../DashBoard2/DashBoard2'
 import Product from '../Product/Product'
 import Orders from '../Orders/Orders'
-import {Routes, Route, Outlet} from 'react-router-dom'
+import {Routes, Route} from 'react-router-dom'
 import Transaction from '../Transaction/Transaction'
 import Settings from '../Settings/Settings'
 import AddToProduct from '../AddToProduct/AddToProduct'
 import Header from '../Header/Header'
-import Main from '../Main copy/Main'
 import OrderView from '../OrderView/OrderView'
-import Profile from '../Profile/Profile'
+
 
 
 const NavPage = () => {

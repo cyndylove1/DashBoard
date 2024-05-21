@@ -3,7 +3,6 @@ import React from 'react'
 import SideBar from '../SideBar/SideBar';
 import NavPage from '../NavPage/NavPage';
 // import LinksData from '../LinksData/LinksData';
-import DashBoard from '../DashBoard/DashBoard';
 
 
 const Main = () => {
